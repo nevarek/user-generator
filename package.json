@@ -1,0 +1,12 @@
+{
+  "name": "user-generator",
+  "version": "1.0.0",
+  "description": "Generates dummy user data and stores it in a file",
+  "main": "src/index.js",
+  "author": "Nathan Smith",
+  "license": "CC0-1.0",
+  "dependencies": {
+    "chance": "^1.1.8",
+    "csv-writer": "^1.6.0"
+  }
+}
